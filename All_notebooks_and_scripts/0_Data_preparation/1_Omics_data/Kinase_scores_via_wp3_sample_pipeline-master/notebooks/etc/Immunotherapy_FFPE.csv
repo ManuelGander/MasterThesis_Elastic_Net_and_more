@@ -1,0 +1,121 @@
+Gene names,other name,occurence,median_peptides,ADC/CAR t cell/immune engager/vaccination,detected (MASTER/INFORM),detected (PAN Cancer FFPE),
+ALCAM,CD166,0.807295797,3,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-11
+CD274,PD-L1,0.137192704,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100060
+CD276,B7-H3,0.579698652,2,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+CD46,SD46,0.108643933,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-40
+CEACAM5,CEA,,,CAR T cell target,x,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+CRYBG1,ST4,0.628865979,2,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100064
+CTAG1A,NY-ESO1,,,TCR targets,x,n.d.,https://doi.org/10.3389/fimmu.2022.835778
+ENG,CD105,0.936558287,2,vaccination antigen,x,x,https://doi.org/10.1038/s41392-023-01674-7
+ERBB2,HER2,,,CAR T cell target,x,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+F3,TF,0.259318002,2,"ADC targets, approved",x,x,https://idrblab.org/adcdb/
+FOLH1;FOLH1B,PSMA,0.362410785,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+FOLR1,FR?,0.128469469,1,"ADC targets, approved",x,x,https://idrblab.org/adcdb/
+GPA33,gpA33,0.290245837,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100054
+IL2RA,CD25,0.057890563,1,"ADC targets, phase III",n.d.,x,https://doi.org/10.1038/s41573-023-00709-14
+KIT,CD117,0.178429818,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+KRAS,KRAS,0.938937351,2,vaccination antigen,x,x,https://doi.org/10.1038/s41392-023-01674-19
+LY75;CD302,CD205,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-12
+MAGEC1,MAGE-C1,0.153846154,1,vaccination antigen,x,x,https://doi.org/10.1038/s41392-023-01674-21
+MELTF,CD228,0.674861221,2,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-13
+PROM1,CD133,0.367168914,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+SOX,SOX2,,,vaccination antigen,x,n.d.,https://doi.org/10.1038/s41392-023-01674-32
+STEAP1;STEAP1B,STEAP1,0.19111816,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100065
+TACSTD2,TROP2,0.458366376,4,"ADC targets, approved",x,x,https://idrblab.org/adcdb/
+TAF1B,TAF1B,0.045995242,1,vaccination antigen,x,x,https://doi.org/10.1038/s41392-023-01674-34
+TFRC,CD71,0.999206979,14,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-18
+TNFRSF17,BCMA,,,"ADC targets, approved",n.d.,n.d.,https://idrblab.org/adcdb/
+TNFRSF4,OX40,0.040444092,1,CAR T cell target,n.d.,x,https://doi.org/10.1186/s12943-023-01723-z 
+ULBP2;RAET1G;RAET1L,ULBP2,,,CAR T cell target,x,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+VTCN1,B7-H4,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-7
+CD70,,0.26962728,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+CLDN18.2,,,,CAR T cell target,x,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+CLDN6,,0.019032514,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+DLL3,,0.08406027,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+EGFR,,0.78667724,5,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+EpCAM,,,,CAR T cell target,x,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+GD2,,,,CAR T cell target,n.d.,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+GPC3,,0.287073751,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+GUCY2C,,0.203806503,1,CAR T cell target,(x),x,https://doi.org/10.1186/s12943-023-01723-z 
+LeY (no direct gene!),,,,CAR T cell target,n.d.,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+MICA,,0.031720856,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+MICB,,,,CAR T cell target,x,n.d.,https://doi.org/10.1186/s12943-023-01723-z 
+MSLN,,0.325138779,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+MUC1,,0.416336241,3,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+NECTIN4,,0.285487708,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+ROBO1,,0.683584457,2,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+ROR1,,0.100713719,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+ROR2,,0.162569389,1,CAR T cell target,x,x,https://doi.org/10.1186/s12943-023-01723-z 
+CD33,,0.106264869,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100046
+DLL1,,0.030927835,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100049
+MUC16,,0.638382236,2,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100058
+MUC17,,0.103885805,1,immune cell engager target,n.d.,x,https://doi.org/10.1016/j.esmoop.2020.100059
+PSCA,,0.114988105,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100061
+SSTR2,,0.080095163,1,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100063
+TPBG,,0.596352102,2,immune cell engager target,x,x,https://doi.org/10.1016/j.esmoop.2020.100066
+AFP,,,,TCR targets,x,n.d.,https://doi.org/10.3389/fimmu.2022.835762
+E6,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835763
+E7,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835764
+EBNA1,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835765
+HBsAg,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835766
+HERV-E,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835767
+KK-LC-1,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835768
+KRAS G12V,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835769
+LMP1,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835770
+LMP2,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835771
+MAGE-A1,,,,TCR targets,x,n.d.,https://doi.org/10.3389/fimmu.2022.835772
+MAGE-A10,,,,TCR targets,x,n.d.,https://doi.org/10.3389/fimmu.2022.835773
+MAGE-A4/8,,,,TCR targets,x,n.d.,https://doi.org/10.3389/fimmu.2022.835774
+MAGE-C2,,,,TCR targets,x,n.d.,https://doi.org/10.3389/fimmu.2022.835775
+MLANA,,0.400475813,1,TCR targets,x,x,https://doi.org/10.3389/fimmu.2022.835777
+PMEL,,0.292624901,2,TCR targets,x,x,https://doi.org/10.3389/fimmu.2022.835779
+PRAME,,0.149088025,1,TCR targets,x,x,https://doi.org/10.3389/fimmu.2022.835780
+PTM,,,,TCR targets,n.d.,n.d.,https://doi.org/10.3389/fimmu.2022.835781
+TP53,,0.154639175,1,TCR targets,x,x,https://doi.org/10.3389/fimmu.2022.835782
+CD19,,0.282315623,3,"ADC targets, approved",n.d.,x,https://idrblab.org/adcdb/
+CD30,,,,"ADC targets, approved",n.d.,n.d.,https://idrblab.org/adcdb/
+CD79b,,,,"ADC targets, approved",n.d.,n.d.,https://idrblab.org/adcdb/
+EGFR,,0.78667724,5,"ADC targets, approved",n.d.,x,https://idrblab.org/adcdb/
+ADAM-9,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-2 
+ALPP,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-3
+ALPP2,,,,"ADC targets, phase III",n.d.,n.d.,https://doi.org/10.1038/s41573-023-00709-4
+AXL,,0.232355274,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-5
+CCR7,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-9
+CD38,,0.847739889,5,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-16
+CD70,,0.26962728,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-17
+CDH3,,0.436954798,3,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-19
+CDH6,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-20
+EDB-FN,,,,"ADC targets, phase III",n.d.,n.d.,https://doi.org/10.1038/s41573-023-00709-24
+ERBB3,,0.999206979,8,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-26
+Globo H,,,,"ADC targets, phase III",n.d.,n.d.,https://doi.org/10.1038/s41573-023-00709-28
+IGF1R,,0.60111023,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-30
+ITGB6,,0.980967486,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-31
+KAAG-1,,,,"ADC targets, phase III",n.d.,n.d.,https://doi.org/10.1038/s41573-023-00709-32
+MET,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-33
+PTK7,,0.869944489,6,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-38
+ROR1,,0.100713719,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-39
+SEZ6,,0.143536875,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-41
+SLC34A2,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-42
+SLC39A6,,0.261697066,1,"ADC targets, phase III",x,x,https://doi.org/10.1038/s41573-023-00709-43
+STn,,,,"ADC targets, phase III",n.d.,n.d.,https://doi.org/10.1038/s41573-023-00709-44
+TM4SF1,,,,"ADC targets, phase III",x,n.d.,https://doi.org/10.1038/s41573-023-00709-46
+AIM2,,0.199841396,1,vaccination antigen,x,x,https://doi.org/10.1038/s41392-023-01674-4
+AR LBD,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-5
+BRCA3,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-6
+CDC25B,,,,vaccination antigen,x,n.d.,https://doi.org/10.1038/s41392-023-01674-8
+Emm55 streptococcal antigen plasmid,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-9
+H3.3.K27M epitope peptide,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-10
+Heat shock protein gp96-peptide,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-11
+HOXB13,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-12
+HPV 16 E6,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-13
+HPV 16 E7,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-14
+HT001,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-15
+IDH1,,1,23,vaccination antigen,x,x,https://doi.org/10.1038/s41392-023-01674-16
+KLK-2,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-17
+KLK-3,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-18
+MDM2,,0.122918319,1,vaccination antigen,n.d.,x,https://doi.org/10.1038/s41392-023-01674-23
+NKX3.1,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-25
+Survivin long peptide,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-33
+TPTE,,0.110229976,1,vaccination antigen,n.d.,x,https://doi.org/10.1038/s41392-023-01674-35
+UCP2,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-36
+YB1,,,,vaccination antigen,n.d.,n.d.,https://doi.org/10.1038/s41392-023-01674-37

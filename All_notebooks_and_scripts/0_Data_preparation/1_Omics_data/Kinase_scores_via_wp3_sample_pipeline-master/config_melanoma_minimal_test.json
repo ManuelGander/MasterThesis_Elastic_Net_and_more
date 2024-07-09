@@ -1,0 +1,44 @@
+{
+    "results_folder": "/media/kusterlab/internal_projects/active/FFPE/Melanoma/Pipeline_output/22.03.29_CJ_WP3_pipeline_test",
+    "sample_annotation": "/media/kusterlab/internal_projects/active/FFPE/Melanoma/Pipeline_output/patient_annotation_melanoma.csv",
+    "metadata_annotation": "/media/kusterlab/internal_projects/active/TOPAS/WP31/Playground/Retrospective_MTBs_Evaluation/SOLID_TUMORS_Metadata_AS_230220.xlsx",
+    "new_batch": "75",
+    "simsi": {
+        "simsi_folder": "/media/kusterlab/internal_projects/active/TOPAS/WP31/SIMSI",
+        "tmt_ms_level": "ms3",
+        "stringencies": 10,
+        "tmt_requantify": true,
+        "maximum_pep": 1,
+        "num_threads": 6
+    },
+    "preprocessing": {
+        "raw_data_location": "/media/kusterlab/internal_projects/active/FFPE/Melanoma/Pipeline_output/MTB_pipeline_FP",
+        "picked_fdr": 0.01,
+        "fdr_num_threads": "6",
+        "program": "",
+        "entity": "",
+        "histologic_subtype": "",
+        "imputation": false,
+        "run_simsi": false,
+        "debug": false,
+        "run_lfq": true
+    },
+    "clinic_proc": {
+        "pspFastaFile": "/media/kusterlab/line_functions/bioinformatics/Databases/psite_annotation_mapping/PhosphoSitePlus/Phosphosite_seq.fasta",
+        "pspKinaseSubstrateFile": "/media/kusterlab/line_functions/bioinformatics/Databases/psite_annotation_mapping/PhosphoSitePlus/Kinase_Substrate_Dataset",
+        "pspAnnotationFile": "/media/kusterlab/line_functions/bioinformatics/Databases/psite_annotation_mapping/PhosphoSitePlus/Phosphorylation_site_dataset",
+        "pspRegulatoryFile": "/media/kusterlab/line_functions/bioinformatics/Databases/psite_annotation_mapping/PhosphoSitePlus/Regulatory_sites",
+        "prot_baskets": "/media/kusterlab/internal_projects/active/TOPAS/WP31/Playground/Retrospective_MTBs_Evaluation/Baskets_4th gen_230103.xlsx"
+    },
+    "report": {
+        "samples_for_report": "91",
+        "drug_list_file": "/media/kusterlab/internal_projects/active/TOPAS/WP31/Playground/FH_Playground/Drug_List.xlsx"
+    },
+    "visualizations": {
+        "hrd_tsg_file": "/media/kusterlab/internal_projects/active/TOPAS/WP31/Searches/Sarcoma/hrd_tsg_list.csv",
+        "poi_file": "/media/kusterlab/internal_projects/active/TOPAS/WP31/Playground/Retrospective_MTBs_Evaluation/poi_file_H021-VHY17P-M1.tsv"
+    },
+    "data_types": [
+        "fp"
+    ]
+}

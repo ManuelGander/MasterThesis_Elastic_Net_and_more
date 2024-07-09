@@ -1,0 +1,18 @@
+
+[data]
+
+report_directory = '/media/kusterlab/internal_projects/active/TOPAS/WP31/Playground/Retrospective_study/2023.12.07_CJ_PAPER_final'
+
+list_peptides = ['_GSHQISLDNPDpYQQDFFPK_',
+                  '_RPAGSVQNPVpYHNQPLNPAPSR_',
+                  '_GSTAENAEpYLR_']
+
+list_proteins = ['EGFR']
+list_patients = [
+'H021-NTAHUW-T1-Q1',
+'H021-8DSJKN-T1-Q1',
+'S033-33+001-T3-Q1',
+'S033-33+004-T1-Q1',
+'H021-VGVHN6-T3',
+'H021-QSF764-T1-Q1']
+

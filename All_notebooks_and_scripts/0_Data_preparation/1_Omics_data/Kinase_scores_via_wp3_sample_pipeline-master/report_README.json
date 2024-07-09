@@ -1,0 +1,86 @@
+[
+  {
+    "Column": "Rank",
+    "Description": "Rank the peptide/protein is assigned in the cohort with 1 being the highest expression of the peptide/protein in the cohort and occurrence being the lowest assigned rank"
+  },
+  {
+    "Column": "Occurrence",
+    "Description": "The number of times the peptide/protein was identified in cohort"
+  },
+  {
+    "Column": "FC",
+    "Description": "Fold change of peptide/protein to median of cohort"
+  },
+  {
+    "Column": "Z-score",
+    "Description": "Z-score of peptide/protein to median of cohort"
+  },
+  {
+    "Column": "P-value",
+    "Description": "P-value of Z-score of peptide/protein. Low p-value means high significance (peptide/protein is differentially  expressed from the cohort median)"
+  },
+  {
+    "Column": "Identification metadata",
+    "Description": "Notes on preprocessing steps affecting the peptide/protein, e.g. imputation, single peptide ids, found in batch"
+  },
+  {
+    "Column": "Intensity",
+    "Description": "Log10(intensity) of the peptide/protein. For proteins, the range is 3-12 with a median of 7.5; for peptides the range is 3-11 with a median of 6.5."
+  },
+  {
+    "Column": "Site positions (MQ identified - PSP)",
+    "Description": "Position of P-site from PhosphoSitePlus (PSP) database according to MaxQuant localization"
+  },
+  {
+    "Column": "Site positions (PSP)",
+    "Description": "All potential positions of P-site from PhosphoSitePlus (PSP) database"
+  },
+  {
+    "Column": "Upstream Kinases (PSP)",
+    "Description": "Upstream kinase of protein which the peptide is found in"
+  },
+  {
+    "Column": "DOMAIN (PSP)",
+    "Description": "Domain (if any) which P-site is found in"
+  },
+  {
+    "Column": "Effects on Modified Protein (PSP)",
+    "Description": "Effect of modification on protein"
+  },
+  {
+    "Column": "Effects on Biological Processes (PSP)",
+    "Description": "Effect of modification on biological processes"
+  },
+  {
+    "Column": "Induce Interaction with (PSP)",
+    "Description": "Interaction being induced by modification"
+  },
+  {
+    "Column": "PSP NOTES",
+    "Description": "Notes on other cellular regulatory effects of modification"
+  },
+  {
+    "Column": "Low throughput studies (PSP)",
+    "Description": "Number of low throughput studies finding modification in the PSP database"
+  },
+  {
+    "Column": "High throughput studies (PSP)",
+    "Description": "Number of high throughput studies finding modification in the PSP database"
+  },
+  {
+    "Column": "CST studies (PSP)",
+    "Description": "Number of studies  finding modification from PSP creator → Cell Signaling Technology"
+  },
+  {
+    "Column": "URL (PSP)",
+    "Description": "Weblink to PhosphoSitePlus website for protein in which modification is"
+  },
+  {
+    "Column": "Modified sequence",
+    "Description": "Sequence with modifications of peptide measured by MS and identified using MaxQuant software"
+  },
+  {
+    "Column": "Proteins",
+    "Description": "Uniprot identifiers"
+  }
+]
